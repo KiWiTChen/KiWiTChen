@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiWiTChen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiWiTChen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
