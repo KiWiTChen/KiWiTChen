@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KiWiTChen/KiWiTChen/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKiWiTChenanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
